@@ -1,5 +1,5 @@
 # NautilusTrader — PyPI wheel (Linux x86_64 için pre-built binary mevcut)
-nautilus_trader[binance]==1.225.0
+nautilus_trader[binance]==1.224.0
 
 # Health server
 fastapi==0.115.0
